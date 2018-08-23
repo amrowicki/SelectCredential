@@ -23,16 +23,16 @@ Install this Module from the PSGallery and Import the module
 ![](https://raw.githubusercontent.com/amrowicki/SelectCredential/master/README/SelectCredential1.gif)
 
 ##### Using the Cred alias in PowerShell Core with Enter-PSSession cmdlet
-![](README\SelectCredential2.gif)
+![](https://raw.githubusercontent.com/amrowicki/SelectCredential/master/README/SelectCredential2.gif)
 
 ##### Using the Cred alias in Windows PowerShell with Enter-PSSession cmdlet
-![](README\SelectCredential3.gif)
+![](https://raw.githubusercontent.com/amrowicki/SelectCredential/master/README/SelectCredential3.gif)
 
 ##### Using the Cred alias in Windows PowerShell ISE with Enter-PSSession cmdlet
-![](README\SelectCredential4.gif)
+![](https://raw.githubusercontent.com/amrowicki/SelectCredential/master/README/SelectCredential4.gif)
 
 ##### Using the Cred alias in Visual Studio Code with newly generated credentials
-![](README\SelectCredential5.gif)
+![](https://raw.githubusercontent.com/amrowicki/SelectCredential/master/README/SelectCredential5.gif)
 
 ## More information
 Different types of menus are displayed on different PowerShell hosts.
