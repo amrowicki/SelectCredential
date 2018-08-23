@@ -36,5 +36,7 @@ Install this Module from the PSGallery and Import the module
 
 ## More information
 Different types of menus are displayed on different PowerShell hosts.
+
 On Windows PowerShell console and PowerShell Core console credential can be selected using the up and down arrows, then pressing enter.
+
 On other hosts, the credential can be chosen by entering number, then pressing enter.
