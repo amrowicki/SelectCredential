@@ -20,7 +20,7 @@ Install this Module from the PSGallery and Import the module
 ## Example
 
 ##### Using the Select-Credential in PowerShell Core with Enter-PSSession cmdlet
-![](README\SelectCredential1.gif)
+![](https://raw.githubusercontent.com/amrowicki/SelectCredential/master/README/SelectCredential1.gif)
 
 ##### Using the Cred alias in PowerShell Core with Enter-PSSession cmdlet
 ![](README\SelectCredential2.gif)
